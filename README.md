@@ -1,5 +1,5 @@
 # Quick-Python-projects-
-Intermediate python projects taught by Code with Tomi via FreeCodeCam
+Intermediate python projects taught by Code with Tomi via FreeCodeCamp
 
 1. Github user profile picture genrator
 2. Renaming bulk files
